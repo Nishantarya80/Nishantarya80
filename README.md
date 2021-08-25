@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://raw.githubusercontent.com/MartinHeinz/Nishantarya80/Nishantarya80/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/Nishantarya80/Nishantarya80/header.png "Header")](https://some-url.dev/)
 
 <h1 align="center">Hi 👋, I'm Nishant Arya</h1>
 <h3 align="center">A passionate developer from India</h3>
