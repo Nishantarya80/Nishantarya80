@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Nishantarya80/Nishantarya80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://raw.githubusercontent.com/MartinHeinz/Nishantarya80/Nishantarya80/header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/Nishantarya80/Nishantarya80/main/header.png "Header")](https://some-url.dev/)
 
-<h1 align="center">Hi 👋, I'm Nishant Arya</h1>
-<h3 align="center">A passionate developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantarya80&label=Profile%20views&color=0e75b6&style=flat" alt="nishantarya80" /> </p>
 
